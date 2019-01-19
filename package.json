@@ -15,7 +15,13 @@
     "generate": "nuxt generate"
   },
   "devDependencies": {
+    "eslint": "^5.12.1",
+    "eslint-config-typescript": "^1.1.0",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-typescript": "^0.14.0",
     "ts-loader": "5.3.3",
-    "typescript": "3.2.4"
+    "typescript": "3.2.4",
+    "typescript-eslint-parser": "^22.0.0",
+    "vue-eslint-parser": "^5.0.0"
   }
 }
